@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64d6710f.css",
+    "main.js": "/static/js/main.799f7650.js",
+    "static/media/Carousel2.png": "/static/media/Carousel2.116212344cbbf5e98632.png",
+    "static/media/Carousel.png": "/static/media/Carousel.57b86af8cbc052dcda2c.png",
+    "static/media/Carousel1.png": "/static/media/Carousel1.9d0a375ac39928d5cfa9.png",
+    "static/media/Client11.jpg": "/static/media/Client11.36d1b9cb7103cbd573ce.jpg",
+    "static/media/Client8.jpg": "/static/media/Client8.4c255c206edccee89045.jpg",
+    "static/media/Client4.jpg": "/static/media/Client4.5f86d13361f435035f0e.jpg",
+    "static/media/Client10.jpg": "/static/media/Client10.bcd433fb4a10e7bdbb52.jpg",
+    "static/media/Client3.jpg": "/static/media/Client3.a8c3f91c753816ffaf04.jpg",
+    "static/media/Client12.jpg": "/static/media/Client12.d2be2023fa83768af41b.jpg",
+    "static/media/Client6.jpg": "/static/media/Client6.55c44c0ba2a5d852376a.jpg",
+    "static/media/Client1.jpg": "/static/media/Client1.6d3fdc483e1fec364e2d.jpg",
+    "static/media/Client16.jpg": "/static/media/Client16.15a97c1f5a8c71853967.jpg",
+    "static/media/white-indusrty1.png": "/static/media/white-indusrty1.68934a1dcc03a9125070.png",
+    "static/media/Client15.jpg": "/static/media/Client15.562c2a78c85855ff5a29.jpg",
+    "static/media/Client2.jpg": "/static/media/Client2.d567b838b9fb3385a5e7.jpg",
+    "static/media/Client9.jpg": "/static/media/Client9.ff03c71205cb21d2840c.jpg",
+    "static/media/Client13.jpg": "/static/media/Client13.a5ebcff6aeae0093d0c9.jpg",
+    "static/media/Client7.jpg": "/static/media/Client7.f13a618721d808031932.jpg",
+    "static/media/MobileLogo.jpg": "/static/media/MobileLogo.c3c98c13a01b484f7a01.jpg",
+    "static/media/Client5.jpg": "/static/media/Client5.b9dccbbcf9ae58fd04be.jpg",
+    "index.html": "/index.html",
+    "main.64d6710f.css.map": "/static/css/main.64d6710f.css.map",
+    "main.799f7650.js.map": "/static/js/main.799f7650.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64d6710f.css",
+    "static/js/main.799f7650.js"
+  ]
+}
